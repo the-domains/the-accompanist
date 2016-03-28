@@ -1,7 +1,7 @@
 name: The Accompanist
 favicon: null
-layout_spectrum: 0.2508176751434803
-typography_spectrum: 0.32157636899501085
+layout_spectrum: 1
+typography_spectrum: 0.52197
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#77becf'
+    - '#a2654c'
+    - '#ffffff'
+    - '#034957'
+    - '#5a260b'
   brandStrength: 0.8628939460031688
-  lightness: 0.8963805441744626
-  saturation: 0.9248654851689935
-  rhythmicContrast: 0.3004718928132206
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
