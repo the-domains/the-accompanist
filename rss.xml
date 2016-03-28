@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Accompanist]]></title>
         <description><![CDATA[The Accompanist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-accompanist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 04:53:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 05:12:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-accompanist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One wintry day I'd been listening to some old house music. Specifically, Darude's Sandstorm. This, combined with blizzard rain outside, inspiring me to compose my own trance piece, which I called Snowstorm. I hope you like it. </p>]]></description>
+            <link>https://thegrid.ai/the-accompanist/68c6312f-c812-4b05-a509-4657d67142af/index.html</link>
+            <guid isPermaLink="false">68c6312f-c812-4b05-a509-4657d67142af</guid>
+            <pubDate>Mon, 28 Mar 2016 05:12:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe37eb9f-1e82-4503-9ef7-6bef42ca7993.png">]]></description>
-            <link>undefinedmy-name-is-nate-and-i-am-a-25-year-old-collaborative-pianis/index.html</link>
+            <link>https://thegrid.ai/the-accompanist/my-name-is-nate-and-i-am-a-25-year-old-collaborative-pianis/index.html</link>
             <guid isPermaLink="false">864d2dac-4099-45e9-a5d5-429823f9ba61</guid>
             <pubDate>Mon, 28 Mar 2016 04:53:28 GMT</pubDate>
         </item>
